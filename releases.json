@@ -1,0 +1,41 @@
+[
+  {
+    "id": "windows",
+    "platform": "DESKTOP",
+    "title": "Windows",
+    "description": "Uma janela dedicada ao seu planejamento, com lançamentos por voz.",
+    "version": "1.2 · prévia",
+    "size": "159,3 MiB · EXE",
+    "requirements": "Windows 10/11 · x64",
+    "href": "https://github.com/deywysonc/favo-downloads/releases/download/v1.2.0-preview/FavO-Windows-1.2.exe",
+    "action": "Baixar para Windows",
+    "warning": "Prévia: requer o servidor FavÔ no próprio computador. Sem assinatura Authenticode; o Windows pode avisar sobre editor desconhecido.",
+    "sha256": "3116ae8a07f346b4b35e54aa082731657772237adad78597acc6ac49e401fca9"
+  },
+  {
+    "id": "android",
+    "platform": "CELULAR",
+    "title": "Android",
+    "description": "Registre na hora. Acompanhe seus gastos onde a vida acontecer.",
+    "version": "1.2 · prévia",
+    "size": "6,6 MiB · APK",
+    "requirements": "Android 7 ou superior",
+    "href": "https://github.com/deywysonc/favo-downloads/releases/download/v1.2.0-preview/FavO-Android-1.2.apk",
+    "action": "Baixar para Android",
+    "warning": "Prévia: requer endereço de servidor configurado e alcançável em Preferências. APK assinado; a instalação fora da Play Store pode exibir alertas.",
+    "sha256": "30ed0a168fcfd90ebded142d738656ffe3298d785d5716ca369b69d150ef72ac"
+  },
+  {
+    "id": "ios",
+    "platform": "PROJETO APPLE",
+    "title": "iPhone / iOS",
+    "description": "Projeto nativo para desenvolvedores, atualizado com a nova interface. O acesso web público ainda não está disponível.",
+    "version": "1.2 · prévia",
+    "size": "7,8 MiB · ZIP",
+    "requirements": "macOS + Xcode para compilar",
+    "href": "https://github.com/deywysonc/favo-downloads/releases/download/v1.2.0-preview/FavO-iOS-Xcode-1.2.zip",
+    "action": "Baixar projeto iOS",
+    "warning": "Este ZIP não é um aplicativo instalável nem um IPA. A distribuição nativa exige compilação e assinatura Apple apropriadas.",
+    "sha256": "8d3b6cf9667dce77f4e5bd431c1bac656a3f357ca85c890886ef3100eb0b7133"
+  }
+]
