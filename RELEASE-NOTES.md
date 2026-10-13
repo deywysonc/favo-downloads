@@ -1,6 +1,8 @@
-# FavÔ 1.3.1 — prévia com acesso gratuito pelo PC
+# FavÔ Studio 1.4.0 — nova experiência de uso
 
-Nova identidade visual, navegação por telas, melhorias de responsividade e animações com respeito à preferência de movimento reduzido.
+Novo sistema visual compartilhado entre web, Windows e Android: navegação em verde profundo, tipografia editorial, contraste e controles mais claros. Busca global com Ctrl/Cmd+K, lançamentos de todos os períodos, atalhos de receita/despesa/voz, mapa de gastos por categoria e investimentos separados entre carteira e exploração. Transições direcionais curtas e respeito à preferência de movimento reduzido.
+
+Orçamentos agora seguem o período escolhido e não sobrescrevem os outros meses. Entradas monetárias aceitam formatação brasileira, inclusive valores colados como R$ 1.500,25. O saldo é identificado como resultado dos lançamentos do período, não como saldo bancário. Falhas de sincronização são identificadas sem um falso estado de sucesso. Dados e instaladores anteriores preservados.
 
 Extrato persistente por investimento, aportes e resgates com data/taxas/observações, cálculo de custo e resultado realizado, proteção contra operações duplicadas, backup integral e estados vazios sem metas e orçamentos inventados. Voz detecta áudio silencioso; chat preserva perguntas e trata falhas. Atualizações de segurança incluídas.
 
